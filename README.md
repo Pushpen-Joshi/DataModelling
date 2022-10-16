@@ -15,4 +15,13 @@ Following is the link to the dataset:
 [Pizza-place-sales](https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales?resource=download)
 
 
+## Languages and tools used
+
+```
+Postgres SQL
+Python
+Jupyter Notebook
+Python Libraries: Pandas and Psycopg2
+```
+
 
